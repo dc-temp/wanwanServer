@@ -1,0 +1,1 @@
+python excel2json.py -i game.xlsx -o game.txt
